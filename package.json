@@ -1,0 +1,18 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "browser-sync": "^2.9.12",
+    "gulp": "^3.9.0",
+    "karma": "^0.13.15",
+    "mocha": "^2.3.3"
+  }
+}
